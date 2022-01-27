@@ -1,0 +1,16 @@
+﻿  Animal.cpp
+  Bird.cpp
+  Bird.h
+  BlackWidow.cpp
+  Counter.cpp
+  Fly.cpp
+  Insect.cpp
+  main.cpp
+  Mosquito.cpp
+  Pidgeon.cpp
+  Seagull.cpp
+  Spider.cpp
+  Tarantula.cpp
+  Generating Code...
+Debug\Bird.obj : warning LNK4042: object specified more than once; extras ignored
+  Zadatak2.vcxproj -> C:\Users\Permetris\Desktop\Oop vjezbe\Vjezba9\Debug\Zadatak2.exe

@@ -1,0 +1,10 @@
+﻿  HangmanController.cpp
+C:\Users\Permetris\Desktop\Oop vjezbe\Vjezba6\Vjezba6a\HangmanController.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+  HangmanModel.cpp
+C:\Users\Permetris\Desktop\Oop vjezbe\Vjezba6\Vjezba6a\HangmanModel.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Permetris\Desktop\Oop vjezbe\Vjezba6\Vjezba6a\HangmanModel.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+  HangmanView.cpp
+C:\Users\Permetris\Desktop\Oop vjezbe\Vjezba6\Vjezba6a\HangmanView.cpp(105,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Vjezba6a.vcxproj -> C:\Users\Permetris\Desktop\Oop vjezbe\Vjezba6\Debug\Vjezba6a.exe

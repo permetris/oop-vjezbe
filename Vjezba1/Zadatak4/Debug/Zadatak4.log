@@ -1,0 +1,3 @@
+﻿  Zadatak4.cpp
+C:\Users\Permetris\Desktop\Oop vjezbe\Vjezba1\Zadatak4\Zadatak4.cpp(11,3): error C2562: 'MinMaxNumberArray': 'void' function returning a value
+C:\Users\Permetris\Desktop\Oop vjezbe\Vjezba1\Zadatak4\Zadatak4.cpp(6): message : see declaration of 'MinMaxNumberArray'

@@ -1,0 +1,4 @@
+﻿  Timer.cpp
+C:\Users\Permetris\Desktop\Oop vjezbe\Vjezba8\Vjezba8\Timer.h(53,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Permetris\Desktop\Oop vjezbe\Vjezba8\Vjezba8\Timer.cpp(79,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Permetris\Desktop\Oop vjezbe\Vjezba8\Vjezba8\Timer.cpp(81,17): error C2296: '%': illegal, left operand has type 'double'
